@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="34.3256274%" y1="11.4966005%" x2="57.0944018%" y2="68.8762772%" id="linearGradient-1">
+            <stop stop-color="#76A5FF" offset="0%"></stop>
+            <stop stop-color="#3F83FF" offset="100%"></stop>
+        </linearGradient>
+        <path
+            d="M2.32542148,2.46336427 L11.7751405,0.282659886 C12.3132819,0.15847341 12.8502047,0.494050177 12.9743912,1.03219158 C12.9914087,1.10593422 13,1.18137035 13,1.25705108 L13,18 C13,19.1045695 12.1045695,20 11,20 L2,20 C0.8954305,20 1.3527075e-16,19.1045695 0,18 L0,5.38653786 C1.1611884e-15,3.98956991 0.964228212,2.7774858 2.32542148,2.46336427 Z"
+            id="path-2"></path>
+        <filter x="-90.0%" y="-59.9%" width="280.0%" height="224.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#D2E1FD" offset="0%"></stop>
+            <stop stop-color="#85AFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.800000012">
+        <g id="内网切图汇总" transform="translate(-112.000000, -208.000000)">
+            <g id="内网图标/部门" transform="translate(112.000000, 208.000000)">
+                <g id="编组-16" transform="translate(3.000000, 2.000000)">
+                    <path
+                        d="M9.4472136,6.7236068 L16.3416408,10.1708204 C17.3579929,10.6789964 18,11.7177858 18,12.854102 L18,20 L18,20 L8,20 L8,7.61803399 C8,7.06574924 8.44771525,6.61803399 9,6.61803399 C9.1552451,6.61803399 9.30835816,6.65417908 9.4472136,6.7236068 Z"
+                        id="矩形" fill="url(#linearGradient-1)"></path>
+                    <g id="矩形备份-23">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="蒙版" fill="#B4CEFF" xlink:href="#path-2"></use>
+                        <path
+                            d="M9.4472136,6.7236068 L17.4472136,10.7236068 C17.7859976,10.8929988 18,11.2392619 18,11.618034 L18,20 L18,20 L8,20 L8,7.61803399 C8,7.06574924 8.44771525,6.61803399 9,6.61803399 C9.1552451,6.61803399 9.30835816,6.65417908 9.4472136,6.7236068 Z"
+                            fill="#2F77FF" opacity="0.699999988" filter="url(#filter-4)" mask="url(#mask-3)"></path>
+                    </g>
+                    <path
+                        d="M11.8875702,0.769855484 C12.0221056,0.738808865 12.1564886,0.765232651 12.2649995,0.83305193 L12.2649995,0.83305193 L12.4993245,19.5 L0.5,19.5 L0.5,5.38653786 C0.5,4.80446788 0.700880877,4.26091537 1.04355272,3.83015936 C1.38622456,3.39940335 1.87068737,3.08144384 2.43785123,2.95055987 L2.43785123,2.95055987 Z"
+                        id="矩形备份-24" stroke="url(#linearGradient-5)"></path>
+                    <rect id="矩形" fill="#FFFFFF" x="3" y="6" width="6" height="2" rx="1"></rect>
+                    <rect id="矩形备份-21" fill="#FFFFFF" x="3" y="10" width="6" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
